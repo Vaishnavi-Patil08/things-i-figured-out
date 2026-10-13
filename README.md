@@ -395,6 +395,4 @@ I am probably applying for something I am slightly underqualified for.
 
 That is somewhat intentional.
 
-New stack, new domain, new problem —
-
-**I'll figure it out.**
+New stack, new domain, new problem — **I'll figure it out.**
