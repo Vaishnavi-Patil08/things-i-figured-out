@@ -118,7 +118,7 @@ I was building increasingly elaborate ways to ask a tiny computer:
 
 **are you actually okay?**
 
-[code →](YOUR_RP2040_LINK)
+[code →](https://github.com/Vaishnavi-Patil08/rp2040-fault-monitor)
 
 ---
 
@@ -165,7 +165,7 @@ That distinction now lives permanently in my head:
 
 > **working is not the same thing as being correct.**
 
-[code →](YOUR_SENTINEL_LINK)
+[code →](https://github.com/Vaishnavi-Patil08/sentinel)
 
 ---
 
@@ -205,7 +205,7 @@ Mostly, though, I came away with a new reflex:
 when something looks magically simple from the top,
 I want to know what ugly machinery is hiding underneath.
 
-[code →](YOUR_XV6_LINK)
+[code →](https://github.com/Vaishnavi-Patil08/COW)
 
 ---
 
